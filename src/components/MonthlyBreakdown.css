@@ -1,0 +1,13 @@
+.result-section {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f3f4f6;
+  border-radius: 10px;
+  text-align: left;
+}
+.result-section h2 {
+  margin-bottom: 10px;
+}
+.result-section p {
+  margin: 6px 0;
+}

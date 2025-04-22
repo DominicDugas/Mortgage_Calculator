@@ -1,0 +1,12 @@
+.result-section {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
+.result-section h2 {
+  margin-bottom: 10px;
+}
+.result-section p {
+  margin: 6px 0;
+}
